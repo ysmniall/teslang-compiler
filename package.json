@@ -1,0 +1,16 @@
+{
+  "name": "compiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moo": "^0.5.1",
+    "nodemon": "^2.0.15"
+  }
+}
